@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WordPress with Docker
 
 This makes local WordPress development easy by spinning up a website using WordPress, MySQL and PhpMyAdmin.
@@ -27,3 +28,7 @@ If you are doing this for the first time, then it will take some time to pull th
 `docker-compose build` to rebuild the container.
 
 See this for further reference on `docker-compose`, https://docs.docker.com/compose/reference/
+=======
+# Docker
+Docker files
+>>>>>>> docker-wordpress/master
